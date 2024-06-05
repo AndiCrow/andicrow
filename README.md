@@ -6,11 +6,13 @@ Angehender Python Entwickler
 
 Ich bin 32 Jahre alt und habe die Gelegenheit ergriffen, meine Leidenschaft für Hardware und Software weiter zu vertiefen.
 
-Derzeit absolviere ich eine Umschulung in Python Backend Programmierung am DCI (Digital Career Institute).
+Derzeit absolviere ich mein Praktikum für die Umschulung in Python Backend Programmierung am DCI (Digital Career Institute).
 
 * 🌍  I'm based in Osnabrück
-* 🧠  I'm learning AWS
 
+Projekte:
+----------------------------
+<a href="https://github.com/Shilpajordan/Final_Project">Med-Search</a>
 ### Skills
 
 <p align="left">

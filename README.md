@@ -12,8 +12,8 @@ Derzeit absolviere ich mein Praktikum für die Umschulung in Python Backend Prog
 
 Projekte:
 ----------------------------
-<a href="https://github.com/Shilpajordan/Final_Project">Med-Search</a>
-<a href="https://github.com/AndiCrow/Mietobjekte">Mietobjekte</a>
+- <a href="https://github.com/Shilpajordan/Final_Project">Med-Search</a>
+- <a href="https://github.com/AndiCrow/Mietobjekte">Mietobjekte</a>
 ### Skills
 
 <p align="left">

@@ -1,29 +1,39 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mein Name ist Andreas Rajchert
-========================================================================================================================================
+Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+### Ich bin Andreas Rajchert!
 
-Angehender Python Entwickler
-----------------------------
+👩‍💻 Leidenschaftliche Python- und Django-Entwicklerin | Auf der Suche nach spannenden Projekten und neuen Herausforderungen!  
 
-Ich bin 32 Jahre alt und habe die Gelegenheit ergriffen, meine Leidenschaft für Hardware und Software weiter zu vertiefen.
+---
 
-Derzeit absolviere ich mein Praktikum für die Umschulung in Python Backend Programmierung am DCI (Digital Career Institute).
+### 🚀 Offen für neue Herausforderungen!  
+Ich suche eine neue Position als **Python/Django-Entwicklerin** oder in einem verwandten Bereich. Mit meiner Erfahrung in Backend-Entwicklung und meiner Begeisterung für innovative Lösungen freue ich mich darauf, in einem motivierten Team mitzuwirken.  
 
-* 🌍  I'm based in Osnabrück
+🌍 **Standort:** Osnabrück  
 
-Projekte:
-----------------------------
-- <a href="https://github.com/Shilpajordan/Final_Project">Med-Search</a>
-- <a href="https://github.com/AndiCrow/Mietobjekte">Mietobjekte</a>
-- <a href="https://github.com/AndiCrow/Fun">Kleines Text Adventure Game</a>
-- <a href="https://github.com/AndiCrow/Kassenbuch">Kleines Kassenbuchsystem</a>
-- <a href="https://github.com/AndiCrow/warehouse">Kleiner Warehouse</a>
-- <a href="https://github.com/AndiCrow/warehouse-2.0">Warehouse 2.0</a>
-### Skills
+---
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-</p>
+### 📂 Projekte  
+- [Med-Search](https://github.com/Shilpajordan/Final_Project): Plattform zur Suche nach medizinischen Informationen.  
+- [Mietobjekte](https://github.com/AndiCrow/Mietobjekte): System zur Verwaltung von Mietobjekten.  
+- [Fun](https://github.com/AndiCrow/Fun): Kleines Text-Adventure-Game, entwickelt in Python.  
+- [Kassenbuch](https://github.com/AndiCrow/Kassenbuch): Einfaches Kassenbuchsystem für kleinere Unternehmen.  
+- [Warehouse](https://github.com/AndiCrow/warehouse): Lagerverwaltungssystem, Version 1 und [Version 2.0](https://github.com/AndiCrow/warehouse-2.0).  
+- [Ticketsystem](https://github.com/AndiCrow/ticketsystem): Verwaltung und Bearbeitung von Tickets in Projekten.  
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.linkedin.com/in/andreas-rajchert-2458562b0/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### 🛠️ Kenntnisse  
+#### **Programmiersprachen**  
+- Python, JavaScript  
+
+#### **Frameworks & Tools**  
+- Django, PostgreSQL, Git, Docker  
+
+#### **Webentwicklung**  
+- HTML5, CSS3  
+
+---
+
+### 📫 Kontakt  
+📧 **E-Mail:** [andi-rajchert@outlook.de](mailto:andi-rajchert@outlook.de)  
+💼 **LinkedIn:** [linkedin.com/in/andreas-rajchert](www.linkedin.com/in/andreas-rajchert-2458562b0)

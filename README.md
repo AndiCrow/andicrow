@@ -43,7 +43,4 @@ Ich suche eine neue Position als **Python/Django-Entwicklerin** oder in einem ve
 💼 **LinkedIn:** [linkedin.com/in/andreas-rajchert](https://www.linkedin.com/in/andreas-rajchert-2458562b0)  
 
 
-### 📫 Kontakt  
-📧 **E-Mail:** [andi-rajchert@outlook.de](mailto:andi-rajchert@outlook.de)  
-💼 **LinkedIn:** [linkedin.com/in/andreas-rajchert](https://www.linkedin.com/in/andreas-rajchert-2458562b0)
 
